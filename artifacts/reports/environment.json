@@ -1,0 +1,9 @@
+{
+  "python": "3.10.20",
+  "platform": "Linux-6.6.5-060605-generic-x86_64-with-glibc2.35",
+  "torch": "2.12.1+cu130",
+  "torchvision": "0.27.1+cu130",
+  "device": "cuda",
+  "cuda_available": true,
+  "cuda_version": "13.0"
+}
