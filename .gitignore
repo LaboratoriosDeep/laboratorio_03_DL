@@ -18,3 +18,4 @@ artifacts/splits/*
 !artifacts/plots/.gitkeep
 !artifacts/splits/.gitkeep
 Laboratorio_03_Guia_Uso_Codigo.tex
+.env
